@@ -1,13 +1,14 @@
 👋 Hi, I'm Emna Chebbi
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Development;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions" alt="Typing SVG" /> </div><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 🌟 About Me
-I'm a final-year Software Engineering student at International Polytechnic School, passionate about solving real-world problems and create intelligent solutions. I combine technical expertise with strong interpersonal skills to deliver impactful projects.
+I'm a final-year Software Engineering student at International Polytechnic School, passionate about leveraging technology to solve real-world problems and create intelligent solutions. I combine technical expertise with strong interpersonal skills to deliver impactful projects.
 
 <div align="center">
 🎓 Education: International Polytechnic School - Software Engineering
 📍 Location: Tunisia
 🔬 Focus: Full Stack Development | DevOps | Machine Learning | AI Solutions
-🎯 Goal: Building intelligent systems that make a difference
+💡 Philosophy: Building scalable and efficient digital solutions
+🎯 Goal: Creating innovative systems that make a difference
 
 </div>
 💼 Technical Skills
@@ -49,18 +50,14 @@ https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoC
 🎯 Leadership	🗣️ Communication	🔄 Adaptability
 📈 Analytical Thinking	🤗 Social Intelligence	⏰ Time Management
 </div>
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Emna-chebbi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emna-chebbi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" height="180"/> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emna-chebbi&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Emna-chebbi&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/> </div>
-📈 Activity Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emna-chebbi&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Activity Graph"/> </div>
 🎯 Current Focus
 🔭 Working on my final year project in Software Engineering
 
 🌱 Deepening my knowledge in Full Stack Development and Cloud Computing
 
-💼 Exploring opportunities in DevOps and Enterprise Systems
+👯 Open to collaborate on Web Development and AI projects
+
+💬 Ask me about Software Engineering, Full Stack Development, DevOps
 
 📫 Let's Connect!
 <div align="center">
