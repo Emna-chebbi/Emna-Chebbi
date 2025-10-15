@@ -49,11 +49,11 @@ I'm a **final-year Software Engineering student** at International Polytechnic S
 
 ## 🎯 Current Focus
 
+• 🔍 Looking for end of studies internship in **Development and AI solutions**
+
 • 🔭 Working on my **final year project** in **Software Engineering**
 
-• 🌱 Deepening my knowledge in **Full Stack Development** and **Cloud Computing**
-
-• 👯 Open to collaborate on **Web Development and AI projects**
+• 🌱 Deepening my knowledge in **Machine Learning** and **Cloud Computing**
 
 
 ## 📫 Let's Connect!
