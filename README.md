@@ -58,5 +58,25 @@ I'm a **final-year Software Engineering student** at International Polytechnic S
 
 ## 📫 Let's Connect!
 <div align="center">
-<p> <a href="https://www.linkedin.com/in/emna-chebbi1"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:emna.chebby19@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://github.com/Emna-chebbi/Emna-Chebbi"> <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"> </a> <a href="https://github.com/Emna-chebbi"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </p></div><div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
+<p> 
+  <a href="https://www.linkedin.com/in/emna-chebbi1"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> 
+  </a> 
+  <a href="mailto:emna.chebby19@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> 
+  </a> 
+  <a href="https://github.com/Emna-chebbi/Emna-Chebbi"> 
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"> 
+  </a> 
+  <a href="https://github.com/Emna-chebbi"> 
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> 
+  </a>
+  <a href="https://emna-chebbi-portfolio.netlify.app"> 
+    <img src="https://img.shields.io/badge/Portfolio-9B59B6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"> 
+  </a>
+</p>
+</div>
+
+<div align="center"> 
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
 </div>
