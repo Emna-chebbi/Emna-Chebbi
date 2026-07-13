@@ -1,26 +1,26 @@
 # 👋 Hi, I'm Emna Chebbi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;DevOps+%26+DevSecOps+Enthusiast;Cloud+%26+AI+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=700&lines=Software+Engineer;DevOps+%26+DevSecOps+Engineer;Cloud+%26+AI+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🌟 About Me
 
-I'm a **final-year Software Engineering student** at International Polytechnic School, passionate about leveraging technology to solve real-world problems and build scalable, secure, and intelligent solutions. I enjoy working across the software lifecycle, from development and AI applications to DevOps and cloud-native technologies.
+I'm a **Software Engineer** focused on **DevOps, Cloud Engineering, and Artificial Intelligence**, building reliable solutions at the intersection of software development, automation, cloud infrastructure, and security. My work centers on modern software delivery: DevOps and DevSecOps practices, GitOps workflows, CI/CD automation, Infrastructure as Code, containerization with Docker, Kubernetes orchestration, cloud-native technologies, and security integration throughout the development lifecycle. My final-year project (PFE) was in **DevSecOps**, where I focused on embedding security into CI/CD pipelines and cloud-native delivery.
 
 <div align="left">
 
-🎓 Education: International Polytechnic School - Software Engineering
+🎓 Background: Software Engineering, International Polytechnic School
 
 📍 Location: Tunisia
 
-🔬 Focus: DevOps | DevSecOps | Cloud Computing | AI Solutions | Full Stack Development
+🔬 Specialization: DevOps | DevSecOps | Cloud Engineering | Platform Engineering | AI-driven Automation
 
-💡 Philosophy: Building scalable, secure, and efficient digital solutions
+💡 Philosophy: Designing scalable and secure platforms, with a focus on automation, observability, and developer experience
 
-🎯 Goal: Creating innovative systems that make a difference
+🎯 Goal: Building automated, scalable, observable, and secure infrastructure
 
 </div>
 
@@ -107,11 +107,11 @@ I'm a **final-year Software Engineering student** at International Polytechnic S
 
 ## 🎯 Current Focus
 
-• 🔍 Seeking opportunities in **DevOps, DevSecOps, Software Engineering, and AI-driven solutions**
+• 🔍 Actively seeking opportunities in **DevOps, DevSecOps, Cloud Engineering, and Platform Engineering**
 
-• 🔭 Building hands-on experience through **cloud-native and DevSecOps projects**
+• 🔭 Designing scalable and secure platforms with a focus on **automation, observability, and developer experience**
 
-• 🌱 Deepening my knowledge in **Cloud Computing, Kubernetes, GitOps, and MLOps**
+• 🌱 Growing my expertise in **cloud-native technologies and AI-driven automation**
 
 ## 📫 Let's Connect!
 
