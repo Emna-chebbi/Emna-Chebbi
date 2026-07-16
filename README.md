@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-I'm a **Software Engineer** focused on **DevOps, Cloud Engineering, and Artificial Intelligence**, building reliable solutions at the intersection of software development, automation, cloud infrastructure, and security. My work centers on modern software delivery: DevOps and DevSecOps practices, GitOps workflows, CI/CD automation, Infrastructure as Code, containerization with Docker, Kubernetes orchestration, cloud-native technologies, and security integration throughout the development lifecycle. My final-year project (PFE) was in **DevSecOps**, where I focused on embedding security into CI/CD pipelines and cloud-native delivery.
+I'm a **Software Engineer** focused on **DevOps, Cloud Engineering, and Artificial Intelligence**, building reliable solutions at the intersection of software development, automation, cloud infrastructure, and security. My work centers on modern software delivery: DevOps and DevSecOps practices, GitOps workflows, CI/CD automation, Infrastructure as Code, containerization with Docker, Kubernetes orchestration, cloud-native technologies, and security integration throughout the development lifecycle.
 
 <div align="left">
 
