@@ -21,13 +21,13 @@ Currently focused on:
 <div align="center">
 
 ### ☁️ Cloud & Infrastructure as Code
-<p>
+<div align="center">
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
 <img src="https://img.shields.io/badge/IaC-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white">
-</p>
+</div>
 
 ### ⚙️ DevOps, CI/CD & Containers
 <p>
